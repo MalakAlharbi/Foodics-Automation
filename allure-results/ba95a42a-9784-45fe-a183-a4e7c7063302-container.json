@@ -1,0 +1,1 @@
+{"uuid":"ba95a42a-9784-45fe-a183-a4e7c7063302","name":"Foodics_Automation","children":["ad33a2a1-efdd-473c-a989-6c7e34d1a5ba"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1695936393582,"stop":1695936405028}],"afters":[],"start":1695936393537,"stop":1695936407015}

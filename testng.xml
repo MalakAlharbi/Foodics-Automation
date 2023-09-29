@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FOODICS Automation">
+    <test name="Verify Google Search">
+        <classes>
+            <class name="testcases.TC01_CheckGoogleResults">
+                <methods>
+                    <include name="verifySearchResults"/>
+                    <include name="removeAndSearchWithNewData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
